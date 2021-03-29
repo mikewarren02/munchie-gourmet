@@ -63,11 +63,12 @@ router.post("/register", (req, res) => {
         bcrypt.genSalt(10, function (error, salt) {
           bcrypt.hash(user_pass, salt, function (error, hash) {
             if (!error) {
+              req.session.userame = 
               db.none(
                 "INSERT INTO users(user_handle, user_pass) VALUES($1, $2)",
                 [user_handle, hash]
               ).then(() => {
-                res.redirect("/login");
+                res.redirect("/");
               });
             }
           });
