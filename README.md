@@ -24,10 +24,9 @@ Register with a username and password then login. Once loggd in head over to the
 
 ![](https://github.com/Murphy-ZJ/food-in-fridge/blob/1ef56d60e6c8a4692d9a474187c963b80f6380bd/assets/img/choice.png)
 
-![](https://github.com/Murphy-ZJ/food-in-fridge/blob/1ef56d60e6c8a4692d9a474187c963b80f6380bd/assets/img/shopping.png)
-
 ![](https://github.com/Murphy-ZJ/food-in-fridge/blob/1ef56d60e6c8a4692d9a474187c963b80f6380bd/assets/img/mobile.png)
 
+![](https://github.com/Murphy-ZJ/food-in-fridge/blob/1ef56d60e6c8a4692d9a474187c963b80f6380bd/assets/img/shopping.png)
 
 
 
